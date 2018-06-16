@@ -1,0 +1,10 @@
+Course_ID,Teacher_ID,Name,n_student,slot,credit
+CC01,S0951,Mo Hinh Hoa,11,50,3
+CC01,S0952,Mo Hinh Hoa,11,30,3
+CC02,S0952,He Thong Nhung,11,50,3
+CC03,S0953,Lap Trinh Web,10,50,3
+CC04,S0954,He Thong Thong Minh,12,50,3
+CC05,S0955,He quan tri CSDL,10,50,3
+CC06,S0956,He dieu hanh,10,50,3
+CC07,S0957,Toan roi rac 2,10,50,3
+CC08,S0958,LT Android,10,50,3
