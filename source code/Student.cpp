@@ -757,7 +757,7 @@ int Student::viewGPA(string username) {
 		system("pause");
 		return 0;
 	}
-	if (check1 = true) {
+	if (check1 == true) {
 		cout << "You have not finished your semester yet!!\n\nYour current GPA is: ";
 		cout << (double)GPA / totalCredit << endl;
 		system("pause");
